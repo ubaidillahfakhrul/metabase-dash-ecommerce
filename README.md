@@ -12,11 +12,13 @@
     └── metabase
 ```
 
-# 📊 E-Commerce BI Dashboard: Revenue, Product, and Customer Insights (metabase)
+# 📊 E-Commerce BI Dashboard: Revenue, Product, and Customer Insights
 
 ## 🎯 Project Objective and Plan
 
 ## 🖼️ Dashboard Preview
+> A business intelligence dashboard for e-commerce analytics: revenue, customer funnel, product performance, and data visualization.
+
 #### Page 1
 ![Dashboard Preview 1](https://github.com/ubaidillahfakhrul/metabase-dash-ecommerce/raw/main/images/data_metabase1.gif)
 #### Page 2
@@ -82,13 +84,6 @@ The dashboard is divided into four major analytical areas:
 - **Website Funnel Health**: High conversion rates show excellent UX design and user engagement.
 
 ---
-
-## 🔍 Keywords (SEO Tags)
-
-`business intelligence dashboard`, `e-commerce analytics`, `data analyst portfolio`, `revenue analysis`, `customer funnel`, `product performance analysis`, `dashboard react vite`, `customer satisfaction`, `data visualization`, `KPI tracking`
-
----
-
 ## 🧰 Tools Used
 
 - metabase
