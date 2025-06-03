@@ -13,7 +13,7 @@
     └── metabase
 ```
 
-# 📊 E-Commerce BI Dashboard: Revenue, Product, and Customer Insights
+# 📊 E-Commerce BI Dashboard: Revenue, Product, and Customer Insights (metabase)
 
 ## 🎯 Project Objective and Plan
 
