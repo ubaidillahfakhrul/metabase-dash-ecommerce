@@ -26,6 +26,10 @@
 #### Page 3
 ![Dashboard Preview 1](https://github.com/ubaidillahfakhrul/metabase-dash-ecommerce/raw/main/images/data_metabase3.gif)
 
+## 🖼️ ER Diagram
+![Dashboard Preview 1](https://github.com/ubaidillahfakhrul/metabase-dash-ecommerce/raw/main/images/schema_diagram1.jpg)
+![Dashboard Preview 1](https://github.com/ubaidillahfakhrul/metabase-dash-ecommerce/raw/main/images/schema_diagram12.jpg)
+
 ## 🎯 Project Objective and Plan
 ### Objective:
 To develop a comprehensive **Business Intelligence dashboard** that enables tracking of key e-commerce metrics such as revenue growth, product sales, customer satisfaction, and user engagement — helping stakeholders make informed, data-driven decisions.
