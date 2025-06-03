@@ -4,7 +4,7 @@
 ├── 📊 images/
 │   ├── data_metabase1.GIF
 │   ├── data_metabase2.GIF
-│   └── data_metabse3.GIF
+│   └── data_metabase3.GIF
 ├── 📄 README.md
 ├── 📂 data/
 │   └── *.sql
