@@ -7,7 +7,7 @@
 │   └── data_metabse3.GIF
 ├── 📄 README.md
 ├── 📂 data/
-│   └── GlobalSuperStore.rar
+│   └── *.sql
 └── 📁 dashboard/
     └── metabase
 ```
